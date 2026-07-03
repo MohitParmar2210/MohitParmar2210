@@ -1,33 +1,69 @@
-# Hi, I’m Mohit Parmar 👋
+⭐ *"Building scalable software, solving real-world problems, and continuously learning new technologies."*
+🚀 **Open to Work**
+# Hi, I'm Mohit Parmar 👋
 
-**Aspiring Software Developer | MERN Stack | Java | Frontend Development**
+## 💻 Software Engineer | Java | MERN Stack | Open to Work
 
-I am a passionate fresher from Bhopal, building real-world web applications using modern technologies. I love turning ideas into projects and continuously improving my coding and design skills.
+🎓 B.Tech Computer Science & Business Systems Graduate (2026)
+
+I'm passionate about building scalable software and solving real-world problems using Java and the MERN Stack. I enjoy developing full-stack applications, integrating AI into products, and continuously improving my problem-solving skills through Data Structures & Algorithms.
+
+🚀 Currently seeking opportunities as a:
+- Software Engineer
+- Java Developer
+- Backend Developer
+- Full Stack Developer
 
 ---
 
 ##  Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React
+
+- **Languages:** Java, JavaScript, C, C++
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
-- **Others:** Git, GitHub, REST APIs, JSON
-- **Tools:** VS Code, Postman, Cloudinary
+- **Technologies:** Redux, Firebase Authentication, Socket.io, Razorpay, REST APIs
+- **Tools:** Git, GitHub, VS Code, Postman, Cloudinary
 
----
+#  Featured Projects
 
-##  Featured Projects
-### 1. **QuickHammer**
+## 1🤖 AI Interview Agent
+
+An AI-powered mock interview platform that analyzes resumes, generates personalized interview questions using LLMs, evaluates answers, and provides intelligent feedback.
+
+### Features
+
+-  AI Resume Analysis
+-  LLM-powered Question Generation
+-  AI Performance Evaluation
+-  Razorpay Credit System
+-  Firebase Authentication
+-  Redux State Management
+
+**Tech Stack**
+
+MERN Stack • OpenRouter AI • Firebase • Razorpay • Redux
+
+ Live Demo:https://ai-interview-frontend-xe5w.onrender.com/
+
+ Repository: https://github.com/MohitParmar2210/AI-Interview
+
+### 2. **QuickHammer**
 - A project management web app to track tasks efficiently.
 - Built with: React, Node.js, MongoDB
 - Features: Task CRUD, User Authentication, Dashboard
+- 
+- Live Demo:https://quick-hammer-three.vercel.app/
 - [Repo Link](https://github.com/MohitParmar2210/QuickHammer)
 
-### 2. **Wanderlust**
+### 3. **Wanderlust**
 - Travel itinerary generator app using MERN stack and Google Maps API
 - Features: Search destinations, generate itineraries, save plans
+- 
+- Live Demo:https://wanderlust-project-bvzl.onrender.com/listings
 - [Repo Link](https://github.com/MohitParmar2210/Wanderlust)
 
-### 3. **Spotify Clone**
+### 4. **Spotify Clone**
 - Web app replicating basic Spotify functionalities
 - Built with: React, Node.js, REST APIs
 - Features: Browse songs, play tracks, search functionality
@@ -42,7 +78,7 @@ I am a passionate fresher from Bhopal, building real-world web applications usin
 
 ##  Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/mohit-parmar-99554328a/](https://www.linkedin.com/in/mohit-parmar-99554328a/)
-- Email: (Use on LinkedIn contact form for privacy)
+- Email: mohitparmar2210@gmail.com
 
 ---
 
