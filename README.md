@@ -54,20 +54,20 @@ MERN Stack • OpenRouter AI • Firebase • Razorpay • Redux
 - Features: Task CRUD, User Authentication, Dashboard
 - 
 - Live Demo:https://quick-hammer-three.vercel.app/
-- [Repo Link](https://github.com/MohitParmar2210/QuickHammer)
+- Repository:https://github.com/MohitParmar2210/QuickHammer
 
 ### 3. **Wanderlust**
 - Travel itinerary generator app using MERN stack and Google Maps API
 - Features: Search destinations, generate itineraries, save plans
 - 
 - Live Demo:https://wanderlust-project-bvzl.onrender.com/listings
-- [Repo Link](https://github.com/MohitParmar2210/Wanderlust)
+- Repository:https://github.com/MohitParmar2210/Wanderlust
 
 ### 4. **Spotify Clone**
 - Web app replicating basic Spotify functionalities
 - Built with: React, Node.js, REST APIs
 - Features: Browse songs, play tracks, search functionality
-- [Repo Link](https://github.com/MohitParmar2210/Spotifyclone)
+- Repository:https://github.com/MohitParmar2210/Spotifyclone
 
 ---
 
